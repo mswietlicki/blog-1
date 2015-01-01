@@ -1,8 +1,6 @@
 Статьи по миграции из различных source control на git
 =====================
 <ul>
-<li>Из TFS https://github.com/SychevIgor/blog_migration_to_git/tree/master/tfs 
-</li>
-<li>Из SVN https://github.com/SychevIgor/blog_migration_to_git/tree/master/svn
-</li>
+<li>Из svn https://github.com/SychevIgor/blog/tree/master/Migration_To_Git/tfs</li>
+<li>Из tfs https://github.com/SychevIgor/blog/tree/master/Migration_To_Git/svn</li>
 </ul>

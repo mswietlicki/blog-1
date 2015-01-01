@@ -64,4 +64,4 @@ Prerequisites_MainLocal.ps1
 <h4>Ограничения скриптов</h4>
 Эти скрипты лучше запускать из-под администратора сервера, все-таки установка Windows фичей. Настройки SQL Server для AppFabric  требуют не менее, чем SA. Поэтому тоже нужны права максимальные.
 
-Если Вы хотите помочь улучшить статью- предлогайте ваши правки через <a href="https://github.com/SychevIgor/blog_appfabricpowershell/blob/master/README.md">github</a>
+Если Вы хотите помочь улучшить статью- предлогайте ваши правки через <a href="https://github.com/SychevIgor/blog/tree/master/AppFabric">github</a>
