@@ -40,9 +40,10 @@
 <li>Кастомная Валидация uml модели https://github.com/SychevIgor/blog/tree/master/VisualStudioUML/validation</li>
 </ul>
 
-Realtimemonitoring https://github.com/SychevIgor/blog/tree/master/Realtimemonitoring
-
-AppFabric https://github.com/SychevIgor/blog/tree/master/AppFabric
-
-SignalR BackPlane https://github.com/SychevIgor/blog/tree/master/SignalR_BackPlane
-
+<b>Статьи не попавшие под группировку</b>
+<ul>
+<li>Realtimemonitoring https://github.com/SychevIgor/blog/tree/master/Realtimemonitoring</li>
+<li>SignalR BackPlane https://github.com/SychevIgor/blog/tree/master/SignalR_BackPlane</li>
+<li>Redis https://github.com/SychevIgor/blog/tree/master/Redis</li>
+<li>AppFabric https://github.com/SychevIgor/blog/tree/master/AppFabric</li>
+</ul>
