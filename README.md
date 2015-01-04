@@ -1,7 +1,6 @@
 Статьи из моего блога
 ====
-
-Статьи по Microsoft Azure
+<b>Статьи по Microsoft Azure</b>
 <ul>
 <li>ApiManagement https://github.com/SychevIgor/blog/tree/master/Azure/ApiManagement</li>
 <li>Automation https://github.com/SychevIgor/blog/tree/master/Azure/Automation</li>
@@ -11,15 +10,16 @@
 <li>Premium Storage https://github.com/SychevIgor/blog/tree/master/Azure/PremiumStorage</li>
 <li>Search https://github.com/SychevIgor/blog/tree/master/Azure/SearchApi</li>
 <li>WebJob https://github.com/SychevIgor/blog/tree/master/Azure/WebJob</li>
+<li>Operation Insight https://github.com/SychevIgor/blog/tree/master/Azure/OperationInsight</li>
 </ul>
 
-Статьи по EntityFramework7
+<b>Статьи по EntityFramework7</b>
 <ul>
 <li>Core https://github.com/SychevIgor/blog/tree/master/Entityframework7/Core</li>
 <li>Redis https://github.com/SychevIgor/blog/tree/master/Entityframework7/Redis</li>
 </ul>
 
-Статьи по стажировке в Microsoft Research в 2012 году.
+<b>Статьи по стажировке в Microsoft Research в 2012 году.</b>
 <ul>
 <li>Учеба для Microsoft Research?! https://github.com/SychevIgor/blog/tree/master/InternshipMSR/coursesforinternship</li>
 <li>Стажировка в Microsoft Research — подача резюме https://github.com/SychevIgor/blog/tree/master/InternshipMSR/cv</li>
@@ -27,13 +27,13 @@
 <li>Летняя стажировка в Microsoft Research 2012 в Redmond https://github.com/SychevIgor/blog/tree/master/InternshipMSR/init</li>
 </ul>
 
-Статьи по миграции из различных source control на git
+<b>Статьи по миграции из различных source control на git</b>
 <ul>
 <li>Из svn https://github.com/SychevIgor/blog/tree/master/Migration_To_Git/tfs</li>
 <li>Из tfs https://github.com/SychevIgor/blog/tree/master/Migration_To_Git/svn</li>
 </ul>
 
-Статьи по работе с visual studio uml
+<b>Статьи по работе с visual studio uml</b>
 <ul>
 <li>Генерация java кода https://github.com/SychevIgor/blog/tree/master/VisualStudioUML/javacodegeneration</li>
 <li>Расширения интерфейса редактора https://github.com/SychevIgor/blog/tree/master/VisualStudioUML/extensibility</li>

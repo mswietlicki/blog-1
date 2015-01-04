@@ -9,5 +9,5 @@
 <li>Premium Storage https://github.com/SychevIgor/blog/tree/master/Azure/PremiumStorage</li>
 <li>Search https://github.com/SychevIgor/blog/tree/master/Azure/SearchApi</li>
 <li>WebJob https://github.com/SychevIgor/blog/tree/master/Azure/WebJob</li>
+<li>Operation Insight https://github.com/SychevIgor/blog/tree/master/Azure/OperationInsight</li>
 </ul>
-
