@@ -40,9 +40,14 @@
 <li>Кастомная Валидация uml модели https://github.com/SychevIgor/blog/tree/master/VisualStudioUML/validation</li>
 </ul>
 
+<b>UI системы RealTime мониторинга на typescript</b>
+<ul>
+<li>WF + StreamInsight https://github.com/SychevIgor/blog/master/realtimemonitoring/General</li>
+<li>TypeScript https://github.com/SychevIgor/blog/master/Realtimemonitoring/TypeScript</li>
+</ul>
+
 <b>Статьи не попавшие под группировку</b>
 <ul>
-<li>Realtimemonitoring https://github.com/SychevIgor/blog/tree/master/Realtimemonitoring</li>
 <li>SignalR BackPlane https://github.com/SychevIgor/blog/tree/master/SignalR_BackPlane</li>
 <li>Redis https://github.com/SychevIgor/blog/tree/master/Redis</li>
 <li>AppFabric https://github.com/SychevIgor/blog/tree/master/AppFabric</li>
