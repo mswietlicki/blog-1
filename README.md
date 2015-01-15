@@ -8,6 +8,7 @@
 <li>Data Factory https://github.com/SychevIgor/blog/tree/master/Azure/DataFactory</li>
 <li>WebJob https://github.com/SychevIgor/blog/tree/master/Azure/WebJob</li>
 <li>Operation Insight https://github.com/SychevIgor/blog/tree/master/Azure/OperationInsight</li>
+<li>Resource Group and Deployment https://github.com/SychevIgor/blog/tree/master/Azure/ResourceGroup</li>
 <li>Раздел Data&Storage
 <ul>
 <li>DocumentDB https://github.com/SychevIgor/blog/tree/master/Azure/Data%26Storage/DocumentDB</li>
@@ -55,6 +56,5 @@
 <b>Статьи не попавшие под группировку</b>
 <ul>
 <li>SignalR BackPlane https://github.com/SychevIgor/blog/tree/master/SignalR_BackPlane</li>
-<li>Redis https://github.com/SychevIgor/blog/tree/master/Redis</li>
 <li>AppFabric https://github.com/SychevIgor/blog/tree/master/AppFabric</li>
 </ul>
